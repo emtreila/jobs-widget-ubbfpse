@@ -1,6 +1,164 @@
 [
   {
     "url": [
+      "https://www.bestjobs.eu/loc-de-munca/internship-insurance-officer-1"
+    ],
+    "title": "Internship Insurance Officer",
+    "company": "TOYOTA STAR SRL",
+    "location": [
+      "Voluntari, Romania"
+    ],
+    "salary": [
+      "de la 785 până la 865 EUR/lună"
+    ],
+    "date": "2026-05-14T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 55,
+    "reason": "Rol implică interacțiune cu clienți, comunicare și negociere — skill-uri din aria mea (comunicare eficientă, relaționare)."
+  },
+  {
+    "url": [
+      "https://www.teamland.ro/apply.php?id=1144#content"
+    ],
+    "title": "Internship marketing",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-06-07T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 60,
+    "reason": "Marketingul implică comunicare, creativitate, relaționare — compatibil cu abilitățile mele sociale și de comunicare."
+  },
+  {
+    "url": [
+      "https://multijobs.ro/job/reprezentant-vanzari/343"
+    ],
+    "title": "Reprezentant vanzari",
+    "company": "Junior Group Srl",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": [
+      "de la 1 până la 1 RON/lună"
+    ],
+    "date": "2026-06-04T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 75,
+    "reason": "Vânzări implică negociere, comunicare eficientă, ascultare activă, relaționare — competențe centrale din pregătirea mea."
+  },
+  {
+    "url": [
+      "https://multijobs.ro/job/asistent-manager/345"
+    ],
+    "title": "asistent manager",
+    "company": "Junior Group Srl",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": [
+      "de la 1 până la 1 RON/lună"
+    ],
+    "date": "2026-06-04T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 65,
+    "reason": "Asistență managerială necesită organizare, comunicare, colaborare în echipă — skill-uri pe care le am."
+  },
+  {
+    "url": [
+      "https://multijobs.ro/job/consultanta-fonduri-europene/342"
+    ],
+    "title": "consultanta fonduri europene",
+    "company": "Junior Group Srl",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": [
+      "de la 1 până la 1 RON/lună"
+    ],
+    "date": "2026-06-04T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 50,
+    "reason": "Consultanță implică comunicare, relaționare, adaptabilitate — parțial relevant, deși necesită și cunoștințe administrative specifice."
+  },
+  {
+    "url": [
+      "https://www.ejobs.ro/user/locuri-de-munca/operator-back-office-junior/1967890"
+    ],
+    "title": "Operator back office, JUNIOR",
+    "company": "Randstad Romania",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": [
+      "de la 3500 RON/lună"
+    ],
+    "date": "2026-06-27T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 45,
+    "reason": "Rol de back office cu limbi străine — implică comunicare și operare, compatibil parțial."
+  },
+  {
+    "url": [
+      "https://www.bestjobs.eu/loc-de-munca/junior-office-specialist"
+    ],
+    "title": "Junior Office Specialist",
+    "company": "ABBVIE SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": [
+      "de la 1075 până la 1190 EUR/lună"
+    ],
+    "date": "2026-05-16T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol de birou care implică comunicare, colaborare, relaționare — se potrivește bine cu competențele mele sociale și de comunicare."
+  },
+  {
+    "url": [
+      "https://multijobs.ro/job/entry-level-dealer-casino/5694"
+    ],
+    "title": "Entry level - Dealer Casino",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": [
+      "de la 4280 până la 4280 RON/lună"
+    ],
+    "date": "2026-06-11T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 50,
+    "reason": "Rol de interacțiune cu publicul — implică comunicare, relaționare, adaptabilitate, deși mediul de casino nu este ideal."
+  },
+  {
+    "url": [
       "https://www.olx.ro/oferta/loc-de-munca/cautam-terapeut-clinician-sau-masterand-psihologie-in-iasi-zona-bucium-pentru-copil-cu-autism-IDkEzYv.html"
     ],
     "title": "Cautam terapeut clinician sau masterand psihologie, in Iasi , zona Bucium pentru copil cu autism",
@@ -14,184 +172,8 @@
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 90,
-    "reason": "Caută masterand psihologie – se potrivește perfect cu competențele de psihologie educațională, dezvoltare copil și incluziune."
-  },
-  {
-    "url": [
-      "https://www.olx.ro/oferta/loc-de-munca/educatori-si-profesori-invatamant-primar-IDkAuHC.html"
-    ],
-    "title": "Educatori si Profesori invatamant primar",
-    "company": "OLXY IMOB SRL",
-    "location": [
-      "Iasi, Romania"
-    ],
-    "salary": [
-      "de la 3000 RON/lună"
-    ],
-    "date": "2026-06-27T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
     "matchPercentage": 95,
-    "reason": "Cere absolvirea Facultății de Științe ale Educației – se potrivește direct cu profilul tău."
-  },
-  {
-    "url": [
-      "https://www.bestjobs.eu/loc-de-munca/educatoare-profesor-invatamant-prescolar-18"
-    ],
-    "title": "Educatoare/ profesor invatamant prescolar",
-    "company": "AZ HAPPY KIDS SRL",
-    "location": [
-      "Voluntari, Romania"
-    ],
-    "salary": [
-      "de la 900 până la 1000 EUR/lună"
-    ],
-    "date": "2026-05-14T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 95,
-    "reason": "Poziție didactică preșcolară – exact domeniul tău de specializare."
-  },
-  {
-    "url": [
-      "https://www.olx.ro/oferta/loc-de-munca/angajez-profesor-invatamant-primar-IDkavg5.html"
-    ],
-    "title": "Angajez profesor invatamant primar",
-    "company": "OLXY IMOB SRL",
-    "location": [
-      "Brasov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-06-27T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 95,
-    "reason": "Cere studii în educație – potrivire directă cu formarea ta."
-  },
-  {
-    "url": [
-      "https://www.jobradar24.ro/anunt/invatator-profesor-invatamant-primar-vdp6p2"
-    ],
-    "title": "Invatator / Profesor invatamant primar",
-    "company": "DERR JOBCONSULT SRL",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-06-27T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 95,
-    "reason": "Profesor învățământ primar – domeniu direct de specializare."
-  },
-  {
-    "url": [
-      "https://www.olx.ro/oferta/loc-de-munca/angajam-profesor-invatamant-prescolar-IDkviZe.html"
-    ],
-    "title": "Angajăm profesor învățământ preşcolar",
-    "company": "OLXY IMOB SRL",
-    "location": [
-      "Voluntari, Romania"
-    ],
-    "salary": [
-      "de la 5400 până la 6800 RON/lună"
-    ],
-    "date": "2026-06-27T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 95,
-    "reason": "Cere studii în domeniul preșcolar – se potrivește cu formarea ta și oferă salariu bun."
-  },
-  {
-    "url": [
-      "https://www.bestjobs.eu/loc-de-munca/profesor-pentru-invatamantul-primar-21"
-    ],
-    "title": "Profesor pentru învățământul primar",
-    "company": "ETOS ACADEMY S.R.L.",
-    "location": [
-      "Calea Vitan, Bucharest, Romania"
-    ],
-    "salary": [
-      "de la 1000 EUR/lună"
-    ],
-    "date": "2026-05-14T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 95,
-    "reason": "Profesor primar – domeniu de specializare direct."
-  },
-  {
-    "url": [
-      "https://www.olx.ro/oferta/loc-de-munca/profesor-aritmetica-mentala-trainer-IDgsbK9.html"
-    ],
-    "title": "Profesor aritmetică mentala, Trainer",
-    "company": "OLXY IMOB SRL",
-    "location": [
-      "Buzau, Romania"
-    ],
-    "salary": [
-      "de la 1000 până la 5000 RON/lună"
-    ],
-    "date": "2026-06-27T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 75,
-    "reason": "Rol de predare cu copii – competențele pedagogice sunt valoroase, deși metoda este specifică."
-  },
-  {
-    "url": [
-      "https://www.bestjobs.eu/loc-de-munca/profesor-in-invatamantul-primar-11"
-    ],
-    "title": "Profesor în învățământul primar",
-    "company": "ARKEDO S.R.L.",
-    "location": [
-      "Strada Daniel Danielopolu, Bucuresti, Romania"
-    ],
-    "salary": [
-      "de la 1400 până la 2000 EUR/lună"
-    ],
-    "date": "2026-06-11T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 95,
-    "reason": "Profesor primar – potrivire directă cu formarea ta."
-  },
-  {
-    "url": [
-      "https://www.bestjobs.eu/loc-de-munca/educatoare-profesor-invatamant-prescolar-18"
-    ],
-    "title": "Educatoare/ profesor invatamant prescolar",
-    "company": "AZ HAPPY KIDS SRL",
-    "location": [
-      "Voluntari, Romania"
-    ],
-    "salary": [
-      "de la 900 până la 1000 EUR/lună"
-    ],
-    "date": "2026-05-14T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 95,
-    "reason": "Profesor preșcolar – potrivire directă."
+    "reason": "Caută terapeut/masterand psihologie pentru copil cu autism — se potrivește perfect cu competențele socio-emoționale, empatia, comunicarea, adaptabilitatea și formarea în psihologie/educație."
   },
   {
     "url": [
@@ -210,8 +192,8 @@
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 65,
-    "reason": "HR - potrivit pentru psihologie: selecție, evaluare, comunicare interumană."
+    "matchPercentage": 85,
+    "reason": "Rol HR care valorifică direct competențele de comunicare, relaționare, empatie și colaborare în echipă, centrale în formarea UBBFPSE"
   },
   {
     "url": [
@@ -230,8 +212,8 @@
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 70,
-    "reason": "Management HR - aliniat cu psihologia și managementul educațional."
+    "matchPercentage": 85,
+    "reason": "Managementul resurselor umane se aliniază cu competențele socio-emoționale, de comunicare și etică profesională din curricula UBBFPSE"
   },
   {
     "url": [
@@ -250,8 +232,8 @@
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 70,
-    "reason": "HR entry-level - potrivit pentru un absolvent de psihologie, fără experiență obligatorie."
+    "matchPercentage": 90,
+    "reason": "Rol HR cu sarcini variate de documentație personal, oferă training la angajare și cere dinamism, proactivitate, spirit de echipă — matching excelent cu profilul studentului"
   },
   {
     "url": [
@@ -270,8 +252,8 @@
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 65,
-    "reason": "HR - competențe de comunicare și evaluare relevante."
+    "matchPercentage": 85,
+    "reason": "Inspector HR în Cluj, rol ce necesită comunicare eficientă, organizare și etică profesională, competențe specifice programului UBBFPSE"
   },
   {
     "url": [
@@ -290,8 +272,8 @@
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 70,
-    "reason": "Recrutare - utilizare cunoștințe de psihologie pentru selecție și evaluare."
+    "matchPercentage": 80,
+    "reason": "Recrutarea implică interviuri, evaluare comportamentală și comunicare — abilități formate în cadrul studiilor de psihologie"
   },
   {
     "url": [
@@ -310,8 +292,8 @@
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 65,
-    "reason": "HR - relevant pentru profilul psihopedagogic."
+    "matchPercentage": 85,
+    "reason": "Rol de specialitate HR potrivit pentru competențele de gestionare a relațiilor, comunicare și etică dobândite la UBBFPSE"
   },
   {
     "url": [
@@ -330,8 +312,8 @@
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 65,
-    "reason": "HR - potrivit pentru competențe în comunicare și psihologie."
+    "matchPercentage": 85,
+    "reason": "Rol HR care utilizează abilitățile de comunicare, negociere și relaționare, toate dezvoltate în cadrul facultății"
   },
   {
     "url": [
@@ -350,229 +332,267 @@
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 65,
-    "reason": "HR - domeniu accesibil absolvenților de psihologie."
+    "matchPercentage": 85,
+    "reason": "Rol HR ce valorifică competențele socio-emoționale și de comunicare din programa UBBFPSE"
   },
   {
     "url": [
-      "https://www.bestjobs.eu/loc-de-munca/hr-business-partner-314"
+      "https://www.bestjobs.eu/loc-de-munca/consultant-vanzari-specialist-anvelope-si-jante-3"
     ],
-    "title": "HR Business Partner",
-    "company": "HR TOOLKIT SRL",
+    "title": "Consultant Vanzari Specialist Anvelope si Jante",
+    "company": "WEBTRADE MARKETING S.R.L.",
     "location": [
-      "Brasov, Romania"
+      "Voluntari, Romania"
     ],
     "salary": [
-      "de la 1395 până la 1545 EUR/lună"
+      "de la 750 până la 825 EUR/lună"
     ],
     "date": "2026-05-14T00:00:00Z",
     "status": "activ",
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 75,
-    "reason": "HR Business Partner - ideal: relaționare, comunicare, management, cunoașterea comportamentului uman."
+    "matchPercentage": 55,
+    "reason": "Rol de vânzări ce valorifică abilitățile de comunicare și relaționare, dar domeniul auto este periferic față de pregătirea în psihologie"
   },
   {
     "url": [
-      "https://www.bestjobs.eu/loc-de-munca/content-creator-for-educational-videos-youtube"
+      "https://www.olx.ro/oferta/loc-de-munca/angajam-reprezentant-comercial-dedicat-hornbach-timisoara-IDkHfDN.html"
     ],
-    "title": "Content Creator for Educational Videos (YouTube)",
-    "company": "KYLIEPREP S.R.L.",
+    "title": "Angajam Reprezentant Comercial Dedicat Hornbach Timisoara",
+    "company": "FMCG MARKETING & DISTRIBUTIE SRL",
     "location": [
       "Timisoara, Romania"
     ],
     "salary": [
-      "de la 600 EUR/lună"
-    ],
-    "date": "2026-05-14T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 75,
-    "reason": "Creare conținut educațional video – potrivește competențele de didactică, metode inovatoare de predare, comunicare și instrumente digitale în educație. Potrivit pentru nivel junior."
-  },
-  {
-    "url": [
-      "https://www.prohuman.ro/candidati/jobs/edmanaging"
-    ],
-    "title": "Managing Editor",
-    "company": "PROHUMAN JOB S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-06-07T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 45,
-    "reason": "Rol editorial cu monitorizarea tendințelor în educație – se potrivește parțial cu competențele de management educațional, planificare strategică și asigurare a calității. Cu toate acestea, componenta editorială tehnică e preponderentă față de cea educațională."
-  },
-  {
-    "url": [
-      "https://www.prohuman.ro/candidati/jobs/Redactor-TL-editura-Oradea"
-    ],
-    "title": "Redactor/TL editura",
-    "company": "PROHUMAN JOB S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-06-07T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 70,
-    "reason": "Editorial management role at a publishing house that monitors education market trends ('Monitorizarea activă a tendințelor pieței, în educație'). Strong match with educational management, team leadership, curriculum knowledge, communication, and project planning skills from the profile."
-  },
-  {
-    "url": [
-      "https://www.olx.ro/oferta/loc-de-munca/angajam-remote-copywriter-content-editor-ecommerce-training-gratuit-program-flexibil-IDkHjZf.html"
-    ],
-    "title": "Angajăm Remote – Copywriter & Content Editor (eCommerce) | Training Gratuit + Program Flexibil",
-    "company": "OLXY IMOB SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": [
-      "de la 500 până la 2000 EUR/lună"
+      "de la 4200 până la 4330 RON/lună"
     ],
     "date": "2026-06-25T00:00:00Z",
     "status": "activ",
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 40,
-    "reason": "Uses communication skills and digital content creation, but focus is eCommerce not education"
+    "matchPercentage": 55,
+    "reason": "Rol comercial ce implică comunicare și relaționare, dar focusul pe vânzări și aprovizionare este parțial aliniat cu profilul UBBFPSE"
   },
   {
     "url": [
-      "https://www.ejobs.ro/user/locuri-de-munca/lector/1967581"
+      "https://www.bestjobs.eu/loc-de-munca/mitarbeiter-im-contact-center-vertriebsprofi-1"
     ],
-    "title": "Lector",
-    "company": "STRUCTURAL TRAINING&CONSULTING SRL-D",
+    "title": "Mitarbeiter im Contact Center & Vertriebsprofi",
+    "company": "P-CALL ROMANIA S.R.L.",
     "location": [
-      "Suceava,Botosani, Romania"
+      "Strada Revolutiei, Sibiu, Romania"
     ],
-    "salary": null,
-    "date": "2026-06-26T00:00:00Z",
+    "salary": [
+      "de la 850 până la 940 EUR/lună"
+    ],
+    "date": "2026-05-09T00:00:00Z",
     "status": "activ",
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 90,
-    "reason": "Directly aligned — teaching/training is core to education sciences curriculum"
+    "matchPercentage": 60,
+    "reason": "Rol în contact center ce implică comunicare activă, ascultare activă și relaționare cu clienții — competențe dezvoltate în programul UBBFPSE"
   },
   {
     "url": [
-      "https://www.ejobs.ro/user/locuri-de-munca/manager-judetean/1967580"
+      "https://www.olx.ro/oferta/loc-de-munca/post-liber-call-center-IDkCzri.html"
     ],
-    "title": "Manager județean",
-    "company": "STRUCTURAL TRAINING&CONSULTING SRL-D",
+    "title": "Post liber Call Center",
+    "company": "OLXY IMOB SRL",
     "location": [
-      "Suceava,Botosani, Romania"
+      "Bucuresti, Romania"
     ],
-    "salary": null,
-    "date": "2026-06-26T00:00:00Z",
+    "salary": [
+      "până la 4000 RON/lună"
+    ],
+    "date": "2026-06-27T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rol de call center într-o clinică de cardiologie; ascultarea activă, comunicarea empatică și relaționarea sunt abilități direct aplicabile"
+  },
+  {
+    "url": [
+      "https://www.bestjobs.eu/loc-de-munca/agent-call-center-267"
+    ],
+    "title": "Agent Call Center",
+    "company": "DIVENDI S.R.L.",
+    "location": [
+      "Voluntari, Romania"
+    ],
+    "salary": [
+      "de la 880 până la 975 EUR/lună"
+    ],
+    "date": "2026-05-14T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 75,
+    "reason": "Call center role leverages communication, active listening, and empathy skills from your psychology/education background. Entry-level friendly."
+  },
+  {
+    "url": [
+      "https://8ore.ro/locuri-de-munca/agent-call-center-part-time-weekend-bucuresti-on-site-pfa-srl-colaborare"
+    ],
+    "title": "Agent Call Center - Part Time Weekend - Bucuresti (on-site) - PFA/SRL Colaborare",
+    "company": "PROCALL CENTER S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": [
+      "de la 2800 până la 5000 RON/lună"
+    ],
+    "date": "2026-05-29T00:00:00Z",
     "status": "activ",
     "f_tag": [
       "UBBFPSE"
     ],
     "matchPercentage": 70,
-    "reason": "Educational management skills (institutional management, strategic planning) are applicable"
+    "reason": "Sales-focused but requires communication, persuasion, and social skills — all in your skillset. Part-time suitable for student schedule."
   },
   {
     "url": [
-      "https://www.ejobs.ro/user/locuri-de-munca/manager-local/1967576"
+      "https://www.olx.ro/oferta/loc-de-munca/operatori-call-center-IDkHFeN.html"
     ],
-    "title": "Manager Local",
-    "company": "STRUCTURAL TRAINING&CONSULTING SRL-D",
-    "location": [
-      "Suceava,Botosani, Romania"
-    ],
-    "salary": null,
-    "date": "2026-06-26T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 65,
-    "reason": "Management role leveraging educational management and teamwork skills"
-  },
-  {
-    "url": [
-      "https://www.ejobs.ro/user/locuri-de-munca/promoter-agent-de-vanzari/1967584"
-    ],
-    "title": "Promoter/ Agent de vânzări",
-    "company": "STRUCTURAL TRAINING&CONSULTING SRL-D",
-    "location": [
-      "Suceava,Botosani, Romania"
-    ],
-    "salary": null,
-    "date": "2026-06-26T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 30,
-    "reason": "Uses communication and interpersonal skills but sales-focused, not education-specific"
-  },
-  {
-    "url": [
-      "https://www.teamland.ro/apply.php?id=463#content"
-    ],
-    "title": "Training Coordinator",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Pitesti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-06-07T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 95,
-    "reason": "Perfect match — training coordination uses curriculum design, educational management, and communication skills"
-  },
-  {
-    "url": [
-      "https://jobs.continental.com/en/detail-page/job-detail/REF96329E-p-4c58e857334dde0d15a6d84978a08998/esh-manager-knowledge-competence-training-ctbc"
-    ],
-    "title": "ESH Manager Knowledge - Competence & Training - CTBC",
-    "company": "Continental",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-06-07T00:00:00Z",
-    "status": "activ",
-    "f_tag": [
-      "UBBFPSE"
-    ],
-    "matchPercentage": 85,
-    "reason": "Training program development and competence management align with educational management and didactics"
-  },
-  {
-    "url": [
-      "https://www.prohuman.ro/candidati/jobs/Training-Specialist-with-Italian"
-    ],
-    "title": "Training Specialist (with Italian)",
-    "company": "PROHUMAN JOB S.R.L.",
+    "title": "Operatori call center",
+    "company": "OLXY IMOB SRL",
     "location": [
       "Bucuresti, Romania"
     ],
-    "salary": null,
-    "date": "2026-06-07T00:00:00Z",
+    "salary": [
+      "de la 3000 până la 8000 RON/lună"
+    ],
+    "date": "2026-06-27T00:00:00Z",
     "status": "activ",
     "f_tag": [
       "UBBFPSE"
     ],
-    "matchPercentage": 90,
-    "reason": "Training specialist role directly maps to education sciences — content development, delivery, and L&D strategy"
+    "matchPercentage": 75,
+    "reason": "Outbound call center requiring communication, negotiation, and no prior experience — strong match for your soft skills and entry-level needs."
+  },
+  {
+    "url": [
+      "https://oferimdemunca.ro/job/consultant-call-center/"
+    ],
+    "title": "Consultant Call Center",
+    "company": "UNU TIC SRL",
+    "location": [
+      "Apahida, Romania"
+    ],
+    "salary": [
+      "de la 4000 până la 6000 RON/lună"
+    ],
+    "date": "2026-05-22T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 70,
+    "reason": "Client communication and sales support role matching your interpersonal and communication competencies."
+  },
+  {
+    "url": [
+      "https://multijobs.ro/job/operator-call-center/4765"
+    ],
+    "title": "Operator call center",
+    "company": "OPTILEV SRL",
+    "location": [
+      "Satu Mare, Romania"
+    ],
+    "salary": [
+      "de la 3000 până la 3000 RON/lună"
+    ],
+    "date": "2026-06-04T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 70,
+    "reason": "Basic call center role using communication and active listening skills. Entry-level."
+  },
+  {
+    "url": [
+      "https://www.bestjobs.eu/loc-de-munca/operator-call-center-1020"
+    ],
+    "title": "Operator call center",
+    "company": "TAMARA 2001 SRL",
+    "location": [
+      "Targu Mures, Romania"
+    ],
+    "salary": [
+      "de la 885 până la 975 EUR/lună"
+    ],
+    "date": "2026-05-14T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 70,
+    "reason": "Call center role using communication and empathy skills. Suitable for entry-level."
+  },
+  {
+    "url": [
+      "https://www.bestjobs.eu/loc-de-munca/operator-call-center-1037"
+    ],
+    "title": "Operator call center",
+    "company": "DELPHISS ENGINEERING SRL",
+    "location": [
+      "Bucharest, Romania"
+    ],
+    "salary": [
+      "de la 960 până la 1060 EUR/lună"
+    ],
+    "date": "2026-06-18T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 70,
+    "reason": "Call center role using communication and active listening. Entry-level suitable."
+  },
+  {
+    "url": [
+      "https://www.bestjobs.eu/loc-de-munca/customer-support-representative-128"
+    ],
+    "title": "Customer support representative",
+    "company": "ROLLINGLINK SRL",
+    "location": [
+      "Timisoara, Romania"
+    ],
+    "salary": [
+      "de la 810 până la 895 EUR/lună"
+    ],
+    "date": "2026-06-13T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 70,
+    "reason": "Customer support role using communication, active listening, and empathy — core skills from your profile."
+  },
+  {
+    "url": [
+      "https://8ore.ro/locuri-de-munca/reprezentant-suport-clienti-customer-support-representative"
+    ],
+    "title": "Reprezentant Suport Clienti/Customer Support Representative",
+    "company": "ANIMA WINGS AVIATION S.A.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": [
+      "de la 5000 RON/lună"
+    ],
+    "date": "2026-05-10T00:00:00Z",
+    "status": "activ",
+    "f_tag": [
+      "UBBFPSE"
+    ],
+    "matchPercentage": 75,
+    "reason": "Customer support role strongly aligned with communication, active listening, and empathy skills from your psychology/education background."
   }
 ]
