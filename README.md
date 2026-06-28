@@ -1,66 +1,53 @@
-# Job Widget — Filtrare inteligentă a locurilor de muncă
+# Job Widget UBBFPSE — Filtrare inteligentă a locurilor de muncă
 
-**Filtrare inteligentă a locurilor de muncă folosind AI**
+**Filtrare inteligentă a locurilor de muncă folosind AI** pentru studenții Facultății de Psihologie și Științe ale Educației, Universitatea Babeș-Bolyai.
 
 ## Ideea proiectului
 
-Colectăm toate locurile de muncă de pe [peviitor.ro](https://peviitor.ro) și, pe baza unor tag-uri generate automat cu ajutorul AI, determinăm ce joburi se potrivesc pentru fiecare facultate și școală profesională din România.
+Colectăm locuri de muncă de pe [peviitor.ro](https://peviitor.ro) și, pe baza unui profil AI generat din curriculum-ul facultății, determinăm ce joburi se potrivesc pentru un student al facultății.
 
 ## Stack tehnologic
 
-- **n8n** – orchestrare workflow-uri și colectare date
-- **OpenCode** – agenți AI pentru procesare și taguire
-- **AI (LLM)** – generare tag-uri și matching inteligent
+- **OpenCode** – agent AI pentru matching inteligent
+- **GitHub Actions** – automatizare pipeline (generare curriculum, agent, matching)
 - **Peviitor.ro** – sursa principală de date (joburi)
 
 ## Cum funcționează
 
-1. Extragem joburile din API-ul Peviitor
-2. Analizăm fiecare job cu ajutorul AI pentru a extrage tag-uri relevante (domeniu, tehnologii, skill-uri, nivel)
-3. Mapăm facultățile și școlile profesionale pe baza profilelor lor de studiu
-4. Match-uim tag-urile joburilor cu profilurile instituțiilor de învățământ
-5. Generăm recomandări personalizate per instituție
+1. **Curriculum**: Se extrage planul de învățământ din sursa oficială și se salvează în `filter/UBBFPSE.md`
+2. **Agent**: Se generează profilul studentului (`agents/student.md`) pe baza curriculum-ului
+3. **Matching**: Scriptul `scripts/fetch_agent_jobs.mjs` caută joburi în API-ul Peviitor, le evaluează cu agentul AI și salvează rezultatele în `jobs.json`
+4. **Widget**: Frontend-ul afișează joburile potrivite
 
-## Local tag:
+## Configurare locală
 
-După ce am făcut fork la repo, în conf/local_tag.md, în root, scriem tag-ul folosit de această facultate.
-Tot aici punem si sursa de unde isi va lua agentul materiile si va deduce si skillurile studentului.
+În `conf/local_tag.md` se definește tag-ul facultății și sursa curriculum-ului:
 
-Formatul pentru local_tag.md este urmatorul:
-TAG
-sursa: exemplu.com
+```
+UBBFPSE sursa: https://psiedu.ubbcluj.ro
+```
 
-## Lista materii:
+## Pipeline
 
-In dir filter/ punem un fisier .md care are ca nume tagul mentionat in conf/local_tag.md, cu lista de materii, folosind sursa sa extragem materiile + cursurile + sa deducem skillurile studentului.
-Acest fisier din filter/ va fi generat cu un prompt in opencode prin GitHUB AGENTS
+| Pas | Acțiune | Output |
+|-----|---------|--------|
+| 1 | `node scripts/generate_curriculum.mjs` | `filter/UBBFPSE.md` |
+| 2 | `node scripts/generate_student_agent.mjs` | `agents/student.md` |
+| 3 | `node scripts/fetch_agent_jobs.mjs` | `jobs.json` |
 
-## Cream un student.md
-student.md va fi in folderul agents si va contine un prompt care va fi inspirat din Ada,md si Medeea.md si va fi personalizat pe baza celor extrase in folderul filter/
-student.md va fi generat cu un prompt de catre opencode si rulat in GitHUB Actions.
+Vezi `INSTRUCTIONS.md` și `AGENTS.md` pentru detalii complete.
 
 ## Widget Incorporabil
 
-Widget-ul de joburi **poate fi încorporat pe site-ul oricărei facultăți** printr-un simplu `<iframe>`. O singură linie de cod este suficientă:
-
-Înlocuiește `URL_DEPLOY` cu URL-ul propriu de GitHub Pages (ex: `https://peviitor-ro.github.io/ClujHackathon2026`).
+Widget-ul poate fi încorporat pe orice site printr-un `<iframe>`:
 
 ```html
 <iframe
-  src="URL_DEPLOY/#/widget?tag=FACULTATE_TAG&title=Titlu&color=culoare"
+  src="https://emtreila.github.io/jobs-widget-ubbfpse/#/widget?tag=UBBFPSE&title=Joburi%20UBBFPSE&color=blue"
   width="100%"
   height="650px"
 ></iframe>
 ```
-
-Parametrii se personalizează în funcție de facultate: `tag` pentru filtrarea joburilor, `title` pentru titlul afișat, `color` pentru tema vizuală. Vezi [documentația tehnică](docs/tehnica.md) pentru detalii complete.
-
-## Articole & mențiuni
-
-- **[Asociația Oportunități și Cariere — Cluj Hackathon 2026](https://www.linkedin.com/posts/asociatia-oportunitati-si-cariere_clujhackathon-clujhackathon2026-opensource-activity-7463907374190309376--UUN)** — Postare LinkedIn despre participarea echipei la hackathon
-- **[Andreea Radu — Experiența la Cluj Hackathon 2026](https://www.linkedin.com/posts/andreea-radu-379205302_clujhackathon-techforgood-voluntariat-share-7463915729734774784-4bjC/)** — Postare LinkedIn a unei studente în practică despre echipă și misiunea asociației
-- **[Carina Bancila — Mândră de echipă](https://www.linkedin.com/posts/carina-bancila_clujhackathon-clujhackathon2026-opensource-share-7463910730103365634-AzH2/)** — Postare LinkedIn a HR & OD Managerului despre implicarea echipei la hackathon
-
 
 ## Licență
 
